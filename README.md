@@ -1,4 +1,4 @@
 # test-jdbc
 ## Required
-*jdk17
-*MySQL8.0.31
+* jdk17
+* MySQL8.0.31
